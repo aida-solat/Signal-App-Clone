@@ -1,1 +1,1 @@
-# signal-clone-react-native
+# Signal Application Clone with React Native
